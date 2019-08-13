@@ -1,3 +1,5 @@
+## Inititially written by Charles Cole. Modified by Christopher Vollmers
+
 import os
 import sys
 import re
